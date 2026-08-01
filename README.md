@@ -1,15 +1,13 @@
 # Hi, I'm Mattia
 
-I build software around embedded systems, hardware tooling, and EDA.
-
-Most of my work lives somewhere between Rust, TypeScript, firmware, and the tools that connect software to hardware.
+I'm an Electrical Engineer building hardware & software for the physical world.
 
 ### Current projects
 
-- [KiCAD MCP Server](https://github.com/mfiumara/KiCAD-MCP-Server)
-- [KiCad to Circuit JSON](https://github.com/mfiumara/kicad-to-circuit-json)
-- [kicadts](https://github.com/mfiumara/kicadts)
+I'm working on:
+- aiPhone: An old vintage phone, repurposed into a physical AI agent
+- Asset Tracker: A printable BLE lable for tracking assets, with applications like cold-chain monitoring
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/mattiafiumara/) · [Medium](https://medium.com/@mfiumara)
+[LinkedIn](https://www.linkedin.com/in/mattiafiumara/) · [Medium](https://medium.com/@mfiumara) · [X](https://x.com/MattiaFiumara)
